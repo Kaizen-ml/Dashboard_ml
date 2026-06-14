@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-06-13T22:10:05.194273+00:00",
+  "agent_config": {
+    "algorithm": "PPO",
+    "policy": "MlpPolicy",
+    "learning_rate": 0.0003,
+    "n_steps": 2048,
+    "batch_size": 64,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.2,
+    "ent_coef": 0.01,
+    "vf_coef": 0.5,
+    "max_grad_norm": 0.5,
+    "seed": 42,
+    "model_path": "/Users/vrinda/Downloads/LETS TRY AGAIN ATTEMPT /models_rl/ppo_cooling_agent.zip"
+  },
+  "training_summary": {
+    "total_timesteps": 50000,
+    "elapsed_seconds": 1234.62,
+    "n_rollouts": 25,
+    "final_mean_reward": 26.4252
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-06-13T22:10:05.196214+00:00",
+  "evaluation_metrics": {
+    "n_episodes": 20,
+    "mean_reward": 102.8724,
+    "max_reward": 325.93,
+    "min_reward": -412.2513,
+    "std_reward": 225.8203,
+    "mean_episode_length": 80.2,
+    "mean_water_savings": 48.31,
+    "mean_energy_savings": 24.16,
+    "mean_cooling_efficiency": 0.5074,
+    "mean_temp_deviation": 3.661,
+    "unsafe_action_count": 0,
+    "safety_interventions": 0,
+    "strategy_distribution": {
+      "AIR_pct": 81.3,
+      "LIQUID_pct": 18.58,
+      "HYBRID_pct": 0.12,
+      "AIR_count": 1304,
+      "LIQUID_count": 298,
+      "HYBRID_count": 2
+    }
+  }
+}

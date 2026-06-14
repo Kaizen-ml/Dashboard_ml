@@ -1,0 +1,71 @@
+Rack,First Row,Height,Type,Model,pwrConsumption,Q,rpm,condition
+1,1,2,ITEquipment,Dell MD1220,0,0,0,null
+1,3,2,ITEquipment,Dell Storage Shelf,0,0,0,null
+1,5,2,ITEquipment,Dell Storage Shelf,0,0,0,null
+1,7,2,ITEquipment,Dell Storage Shelf,0,0,0,null
+1,9,2,ITEquipment,Dell Storage Shelf,0,0,0,null
+1,11,2,ITEquipment,Dell Storage Shelf,0,0,0,null
+1,13,2,ITEquipment,Dell Storage Shelf,0,0,0,null
+1,15,2,ITEquipment,Dell Storage Shelf,0,0,0,null
+1,17,2,ITEquipment,Fujitsu Server,0,0,0,null
+1,19,2,ITEquipment,Lenovo Server,0,0,0,null
+1,21,2,ITEquipment,DellEmc Unity Storage,0,0,0,null
+1,23,2,ITEquipment,HP Server,0,0,0,null
+1,25,2,ITEquipment,Dell Server,0,0,0,null
+1,27,2,ITEquipment,Huawei Server,0,0,0,null
+1,29,2,ITEquipment,Cisco Server,0,0,0,null
+1,31,5,ITEquipment,DELL VRTX Chasis,0,0,0,null
+1,36,3,ITEquipment,junier router,0,0,0,null
+1,38,1,ITEquipment,Dell r630,84,0.0074,0,null
+1,40,2,ITEquipment,Dell FX2S Chasis +4 x FC630 Server,0,0,0,null
+1,42,1,ITEquipment,Dell Switch,0,0,0,null
+2,1,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,0,0,null
+2,11,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,0,0,null
+2,21,1,emptyClosed,Rack Filler,0,0,0,null
+2,22,1,ITEquipment,DELL KVM,0,0,0,null
+2,23,1,emptyClosed,Rack Filler,0,0,0,null
+2,24,2,ITEquipment,QCT Blade Server,0,0,0,null
+2,26,1,ITEquipment,Dell Switch,0,0,0,null
+2,27,2,ITEquipment,Dell Server,144,0.023,0,null
+2,29,2,ITEquipment,Dell Server,144,0.0239,0,null
+2,31,2,ITEquipment,Dell Server,0,0,0,null
+2,33,2,ITEquipment,Dell Server,0,0,0,null
+2,35,1,ITEquipment,Dell EMC,0,0,0,null
+2,36,1,ITEquipment,Dell N1148T,0,0,0,null
+2,37,1,ITEquipment,Dell 8132F,0,0,0,null
+2,38,1,ITEquipment,Dell 8132F,0,0,0,null
+2,39,1,ITEquipment,Fortigate 201,0,0,0,null
+2,40,1,ITEquipment,Netbotz,0,0,0,null
+2,41,1,ITEquipment,Dell Switch,0,0,0,null
+2,42,1,ITEquipment,Dell Backbone Switch,0,0,0,null
+3,1,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,0,0,null
+3,11,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,0,0,null
+3,21,2,ITEquipment,ups,0,0,0,null
+3,23,2,ITEquipment,dell powervault,0,0,0,null
+3,25,2,ITEquipment,Dell Server,154,0.033,0,null
+3,27,2,ITEquipment,Dell Server,308,0.029,0,null
+3,29,2,ITEquipment,Dell Server,196,0.047,0,null
+3,31,2,ITEquipment,Dell Server,112,0.0309,0,null
+3,33,2,ITEquipment,Dell Server,0,0,0,null
+3,35,2,ITEquipment,Dell Server,210,0.019,0,null
+3,37,2,ITEquipment,Dell Server,0,0,0,null
+3,39,2,ITEquipment,Dell EMC,0,0,0,null
+3,41,1,ITEquipment,Dell Switch,0,0,0,null
+3,42,1,ITEquipment,Dell Backbone Switch,0,0,0,null
+4,1,1,emptyClosed,Rack Filler,0,0,0,null
+4,2,5,ITEquipment,Dell 5U Server,0,0,0,null
+4,7,5,ITEquipment,Dell 5U Server,0,0,0,null
+4,12,2,ITEquipment,APC UPS,0,0,0,null
+4,14,2,ITEquipment,APC UPS,0,0,0,null
+4,16,2,ITEquipment,CCTV NVR,0,0,0,null
+4,18,1,emptyClosed,empty,0,0,0,null
+4,19,10,emptyClosed,Dell Server R630,0,0,0,null
+4,30,2,ITEquipment,emptyclosed,0,0,0,null
+4,32,2,ITEquipment,Dell Storage MD3260,0,0,0,null
+4,34,2,ITEquipment,Dell EMC Server,468,0.043,0,null
+4,36,2,ITEquipment,Dell EMC Server,0,0,0,null
+4,38,1,ITEquipment,Dell Server,167,0.0093,0,null
+4,39,1,ITEquipment,Dell Server,0,0,0,null
+4,40,1,ITEquipment,Dell Server,0,0,0,null
+4,41,1,ITEquipment,Dell Switch,0,0,0,null
+4,42,1,emptyClosed,Empty,0,0,0,null

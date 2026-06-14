@@ -1,0 +1,71 @@
+Rack_ID,Rack_Position,Height_U,Equipment_Type,Model,RPM,Condition,PowerConsumption,Q,Z_m,Exhaust_Prev_Design_C,Exhaust_Retro_Design_C,Heat_Density,Hotspot_Risk,Rack_Efficiency_Score,Thermal_Risk_Score,Retrofit_Temp_Delta
+1,1,2,ITEquipment,Dell MD1220,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,3,2,ITEquipment,Dell Storage Shelf,0,,800.0,0.047111111111111,,,,399.9998000001,,5.888888881527764e-05,399.9998000001,
+1,5,2,ITEquipment,Dell Storage Shelf,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,7,2,ITEquipment,Dell Storage Shelf,0,,800.0,0.047111111111111,,,,399.9998000001,,5.888888881527764e-05,399.9998000001,
+1,9,2,ITEquipment,Dell Storage Shelf,0,,800.0,0.047111111111111,,,,399.9998000001,,5.888888881527764e-05,399.9998000001,
+1,11,2,ITEquipment,Dell Storage Shelf,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,13,2,ITEquipment,Dell Storage Shelf,0,,800.0,0.047111111111111,,,,399.9998000001,,5.888888881527764e-05,399.9998000001,
+1,15,2,ITEquipment,Dell Storage Shelf,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,17,2,ITEquipment,Fujitsu Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,19,2,ITEquipment,Lenovo Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,21,2,ITEquipment,DellEmc Unity Storage,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,23,2,ITEquipment,HP Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,25,2,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,27,2,ITEquipment,Huawei Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,29,2,ITEquipment,Cisco Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,31,5,ITEquipment,DELL VRTX Chasis,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+1,36,3,ITEquipment,junier router,0,,0.0,0.0,1.6902,31.6,34.1,0.0,1.0,0.0,0.0,-2.5
+1,38,1,ITEquipment,Dell r630,0,,84.0,0.0074,1.7791,33.1,34.1,83.99991600008401,1.0,8.809523704648528e-05,167.99983200016803,-1.0
+1,40,2,ITEquipment,Dell FX2S Chasis +4 x FC630 Server,0,,0.0,0.0,1.868,28.3,31.6,0.0,0.0,0.0,0.0,-3.3000000000000007
+1,42,1,ITEquipment,Dell Switch,0,,0.0,0.0,1.9569,28.6,30.1,0.0,0.0,0.0,0.0,-1.5
+2,1,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,11,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,,3000.0,0.176666666666667,,,,299.99997000000303,,5.8888888869259375e-05,299.99997000000303,
+2,21,1,emptyClosed,Rack Filler,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,22,1,ITEquipment,DELL KVM,0,,0.0,0.0,1.0679,24.7,24.7,0.0,0.0,0.0,0.0,0.0
+2,23,1,emptyClosed,Rack Filler,0,,800.0,0.047111111111111,,,,799.9992000008001,,5.888888881527764e-05,799.9992000008001,
+2,24,2,ITEquipment,QCT Blade Server,0,,0.0,0.0,1.1568,24.5,24.4,0.0,0.0,0.0,0.0,0.10000000000000142
+2,26,1,ITEquipment,Dell Switch,0,,0.0,0.0,1.2457,23.6,23.9,0.0,0.0,0.0,0.0,-0.29999999999999716
+2,27,2,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,29,2,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,31,2,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,33,2,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,35,1,ITEquipment,Dell EMC,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,36,1,ITEquipment,Dell N1148T,0,,0.0,0.0,1.6902,31.6,34.1,0.0,1.0,0.0,0.0,-2.5
+2,37,1,ITEquipment,Dell 8132F,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,38,1,ITEquipment,Dell 8132F,0,,0.0,0.0,1.7791,33.1,34.1,0.0,1.0,0.0,0.0,-1.0
+2,39,1,ITEquipment,Fortigate 201,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,40,1,ITEquipment,Netbotz,0,,0.0,0.0,1.868,28.3,31.6,0.0,0.0,0.0,0.0,-3.3000000000000007
+2,41,1,ITEquipment,Dell Switch,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+2,42,1,ITEquipment,Dell Backbone Switch,0,,0.0,0.0,1.9569,28.6,30.1,0.0,0.0,0.0,0.0,-1.5
+3,1,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+3,11,10,ITEquipment,Dell 1000e Blade Chasis + 16 x M610 Server,0,,650.0,0.038277777777778,,,,64.99999350000066,,5.888888879829094e-05,64.99999350000066,
+3,21,2,ITEquipment,ups,0,,800.0,0.047111111111111,,,,399.9998000001,,5.888888881527764e-05,399.9998000001,
+3,23,2,ITEquipment,dell powervault,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+3,25,2,ITEquipment,Dell Server,0,,154.0,0.033,,,,76.99996150001924,,0.00021428571289424864,76.99996150001924,
+3,27,2,ITEquipment,Dell Server,0,,308.0,0.029,,,,153.99992300003848,,9.415584385014338e-05,153.99992300003848,
+3,29,2,ITEquipment,Dell Server,0,,196.0,0.047,,,,97.9999510000245,,0.00023979591714389837,97.9999510000245,
+3,31,2,ITEquipment,Dell Server,0,,112.0,0.0309,,,,55.999972000014,,0.00027589285467952807,55.999972000014,
+3,33,2,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+3,35,2,ITEquipment,Dell Server,0,,210.0,0.019,,,,104.99994750002624,,9.047619004535148e-05,104.99994750002624,
+3,37,2,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+3,39,2,ITEquipment,Dell EMC,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+3,41,1,ITEquipment,Dell Switch,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+3,42,1,ITEquipment,Dell Backbone Switch,0,,0.0,0.0,1.9569,28.6,30.1,0.0,0.0,0.0,0.0,-1.5
+4,1,1,emptyClosed,Rack Filler,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,2,5,ITEquipment,Dell 5U Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,7,5,ITEquipment,Dell 5U Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,12,2,ITEquipment,APC UPS,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,14,2,ITEquipment,APC UPS,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,16,2,ITEquipment,CCTV NVR,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,18,1,emptyClosed,empty,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,19,10,emptyClosed,Dell Server R630,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,30,2,ITEquipment,emptyclosed,0,,0.0,0.0,1.4235,24.2,24.5,0.0,0.0,0.0,0.0,-0.3000000000000007
+4,32,2,ITEquipment,Dell Storage MD3260,0,,0.0,0.0,1.5124,25.3,27.1,0.0,0.0,0.0,0.0,-1.8000000000000007
+4,34,2,ITEquipment,Dell EMC Server,0,,468.0,0.043,1.6013,32.2,35.1,233.99988300005847,1.0,9.188034168401636e-05,467.99976600011695,-2.8999999999999986
+4,36,2,ITEquipment,Dell EMC Server,0,,0.0,0.0,1.6902,31.6,34.1,0.0,1.0,0.0,0.0,-2.5
+4,38,1,ITEquipment,Dell Server,0,,167.0,0.0093,1.7791,33.1,34.1,166.999833000167,1.0,5.568862242102621e-05,333.999666000334,-1.0
+4,39,1,ITEquipment,Dell Server,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,40,1,ITEquipment,Dell Server,0,,0.0,0.0,1.868,28.3,31.6,0.0,0.0,0.0,0.0,-3.3000000000000007
+4,41,1,ITEquipment,Dell Switch,0,,0.0,0.0,,,,0.0,,0.0,0.0,
+4,42,1,emptyClosed,Empty,0,,0.0,0.0,1.9569,28.6,30.1,0.0,0.0,0.0,0.0,-1.5
