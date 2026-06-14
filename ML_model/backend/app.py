@@ -5,7 +5,7 @@ from . import data_adapter, ml_service, schemas
 
 app = FastAPI(title="Data Center Cooling API", version="1.0.0")
 
-origins = ["http://localhost:3000", "http://localhost:3001"]
+origins = ["*"]  # temporarily for deployment testing
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -18,6 +18,11 @@ app.add_middleware(
 @app.on_event("startup")
 def on_startup() -> None:
     ml_service.initialize()
+
+
+@app.get("/")
+def root_health() -> dict[str, str]:
+    return {"status": "ok", "service": "ML Cooling Backend"}
 
 
 @app.get("/api/health")
