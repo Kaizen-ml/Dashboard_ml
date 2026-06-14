@@ -1,0 +1,5 @@
+strategy,mean_reward,max_reward,min_reward,std_reward,mean_water_savings,mean_energy_savings,mean_cooling_efficiency,mean_temp_deviation,mean_sustainability_score,mean_thermal_stability,safety_interventions,n_episodes
+AIR,157.7644,364.71,-308.83,201.5591,48.31,24.16,0.5002,2.8355,34.4083,0.1131,0,20
+LIQUID,86.916,217.77,-414.0,135.2439,48.31,24.16,0.5758,3.1813,30.558,0.1131,0,20
+HYBRID,17.187,282.32,-421.45,288.8127,48.31,24.16,0.5377,3.285,32.182,0.1131,0,20
+PPO,148.1632,364.28,-129.26,169.1691,48.31,24.16,0.5091,3.0598,33.1789,0.1131,0,20
